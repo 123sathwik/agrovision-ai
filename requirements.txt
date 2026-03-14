@@ -1,0 +1,20 @@
+# Web Framework & Server
+fastapi            # Web framework for building the backend API
+uvicorn            # ASGI server to run the FastAPI application
+pydantic           # Data validation and settings management (used by FastAPI)
+python-multipart   # Support for parsing multipart/form-data (for image uploads)
+
+# AI & Deep Learning
+torch              # Primary deep learning framework (PyTorch)
+torchvision        # Computer vision utilities and models for PyTorch
+grad-cam           # Library for generating Class Activation Maps (heatmaps)
+numpy              # Numerical operations and array handling for image data
+opencv-python      # Computer vision and image processing tasks
+pillow             # Image loading and basic manipulation
+scikit-learn       # Machine learning utilities for metrics and data handling
+python-multipart   # Support for parsing multipart/form-data (for image uploads)
+groq               # SDK for integrating with Groq's high-performance AI API
+streamlit          # Framework for building the web dashboard
+requests           # Library for making HTTP requests to the FastAPI backend
+tqdm               # Professional progress bars for CLI tools
+matplotlib         # Data visualization and plotting

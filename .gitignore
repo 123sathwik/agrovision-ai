@@ -1,0 +1,31 @@
+# AgroVision AI Sensitive Files
+.env
+credentials/
+*.json
+!data/fertilizer_db.json
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.venv/
+venv/
+
+# Local data & outputs
+temp_uploads/
+outputs/heatmaps/
+data/crop_disease_dataset/
+
+# IDEs
+.vscode/
+.idea/
+venv/
+__pycache__/
+*.pyc
+.env
+temp_uploads/
+models/*.pth
+.firebase/
+data/
+
